@@ -3,7 +3,7 @@ import java.applet.*;
 import java.awt.*;
 import java.awt.event.*;
 
-public class SApplet extends Applet implements ActionListener {
+public class Applet extends Applet implements ActionListener {
    TextField input,output;
    Label label1,label2;
    Button b1;
